@@ -155,7 +155,7 @@
 		font-size: 60px;
 		line-height: 80px;
 	}
-	
+
 	.social-icons ul{
 		margin-left: -5px;
 	}
@@ -239,7 +239,7 @@
 		margin-bottom: 40px;
 	}
 
-	.contact-section .map-icon, 
+	.contact-section .map-icon,
 	.contact-section .mobile-icon {
 		float: none;
 	}
@@ -292,6 +292,10 @@
   		margin-right: 20px;
 	}
 
+	.header-logo{
+	    max-width: 200px;
+	    margin-bottom: 40px;
+	}
 
 }
 
@@ -302,7 +306,7 @@
 		padding: 10px 15px;
 	}
 
-	.navbar-custom .navbar-nav > li > a, 
+	.navbar-custom .navbar-nav > li > a,
 	.navbar-custom .navbar-nav .dropdown-menu > li > a{
 		font-size: 12px;
 		padding: 15px;
@@ -339,7 +343,7 @@
 		margin-bottom: 40px;
 	}
 
-	.contact-section .map-icon, 
+	.contact-section .map-icon,
 	.contact-section .mobile-icon {
 		float: left;
 	}
@@ -398,7 +402,7 @@
 
 /* Large devices (large desktops, 1280px and up) */
 @media screen and (min-width:1280px) and (max-width:1599px) {
-	
+
 }
 
 /* Extra Large devices (large desktops, 1600px and up) */
